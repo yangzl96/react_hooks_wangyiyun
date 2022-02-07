@@ -1,0 +1,6 @@
+export const CHANGE_TOP_BANNERS = 'recomend/CHANGE_TOP_BANNERS'
+export const CHANGE_HOT_RECOMMEND = 'recomend/CHANGE_HOT_RECOMMEND'
+export const CHANGE_NEW_ALBUMN = 'recomend/CHANGE_NEW_ALBUMN'
+export const CHANGE_UP_RANKING = 'recomend/CHANGE_UP_RANKING'
+export const CHANGE_NEW_RANKING = 'recomend/CHANGE_NEW_RANKING'
+export const CHANGE_ORIGIN_RANKING = 'recomend/CHANGE_ORIGIN_RANKING'
